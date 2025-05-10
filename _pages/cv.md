@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 Education
-======
+====
 * Ph.D. in Atmospheric Physics, Technical University of Munich, Germany (2023–present)  
   * Thesis: Improving the representation of cloud microphysics and aerosols in Earth system models with Quantum Machine Learning and Machine Learning  
   * Topics: ML (Python, PyTorch), Explainable AI (SHAP), QML (Pennylane), climate modelling (Fortran)
@@ -32,7 +32,7 @@ Education
   * Grade: 1.4 (very good)
 
 Work Experience
-======
+====
 * Ph.D. Researcher, German Aerospace Center (DLR), Germany (2023–present)  
   * Technical lead in cloud microphysics for DLR Quantum Initiative KLIM-QML  
   * ESM simulations, data preprocessing, domain expertise (Fortran, Python, PyTorch, Pennylane)  
@@ -58,32 +58,14 @@ Work Experience
   * Patient monitoring prototype, GUI in C#, embedded C++ algorithm, ML data prep
 
 Skills
-======
+====
 * Programming: Python, PyTorch, TensorFlow, Pennylane, C++, Fortran, MATLAB  
 * Tools: GitHub, Docker, Kafka Streams, IBM Cloud, EAGLE, SAP, Mathematica  
 * Methodologies: Machine Learning, Explainable AI, Quantum Machine Learning  
 * Soft Skills: Project leadership, teaching, workshop facilitation, community outreach
 
-Publications
-======
-<ul>{% for post in site.publications reversed %}
-  {% include archive-single-cv.html %}
-{% endfor %}</ul>
-
-Talks
-======
-<ul>{% for post in site.talks reversed %}
-  {% include archive-single-talk-cv.html %}
-{% endfor %}</ul>
-
-Teaching
-======
-<ul>{% for post in site.teaching reversed %}
-  {% include archive-single-cv.html %}
-{% endfor %}</ul>
-
 Service and Leadership
-======
+====
 * Since 2024: Community work in climate science, Scientists for Future, Germany  
 * 2022: Community work in Data Science Methodology Tribe, IBM  
 * 2022: Data Science workshop facilitator at universities, IBM  
