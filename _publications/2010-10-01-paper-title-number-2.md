@@ -10,5 +10,3 @@ citation: 'Sarauer, E., Husemann, U., Wolf, R., Keicher, P. (2021). "Associated 
 ---
 
 This Master's thesis investigates the associated production of two Higgs bosons with a top quark-antiquark pair (`tt̄HH`) using data from the CMS experiment at CERN. The analysis includes Monte Carlo simulations, background estimation, and deep learning methods to improve signal sensitivity.
-
-Available online at: [https://publish.etp.kit.edu/record/22066](https://publish.etp.kit.edu/record/22066)
