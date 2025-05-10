@@ -2,6 +2,7 @@
 title: "Associated Production of Two Higgs Bosons with a Top Quark-Antiquark Pair in the CMS Experiment"
 collection: publications
 category: manuscripts
+permalink: /publication/2019-06-01-master-thesis
 excerpt: 'Master thesis on Higgs boson pair production in association with a top quark-antiquark pair, conducted at the CMS experiment, KIT.'
 date: 2021-06-01
 venue: 'Master Thesis, Karlsruhe Institute of Technology'
