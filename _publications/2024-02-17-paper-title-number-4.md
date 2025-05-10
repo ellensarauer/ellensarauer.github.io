@@ -1,13 +1,12 @@
 ---
-title: "Paper Title Number 4"
+title: "Physics-informed Machine Learning-Based Cloud Microphysics Parameterization for Earth System Models"
 collection: publications
 category: conferences
-permalink: /publication/2024-02-17-paper-title-number-4
-excerpt: 'This paper is about fixing template issue #693.'
-date: 2024-02-17
-venue: 'GitHub Journal of Bugs'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
+excerpt: 'Presented at ICLR 2024 Workshop on Tackling Climate Change with Machine Learning.'
+date: 2024-05-01
+venue: 'ICLR 2024 Workshop on Tackling Climate Change with Machine Learning'
+paperurl: 'https://www.climatechange.ai/papers/iclr2024/35'
+citation: 'Sarauer, E., Schwabe, M., Lauer, A., Stier, P., Weiss, P. and Eyring, V. (2024). "Physics-informed Machine Learning-Based Cloud Microphysics Parameterization for Earth System Models." <i>ICLR 2024 Workshop on Tackling Climate Change with Machine Learning</i>.'
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+In this study, we develop a physics-informed machine learning (ML)-based cloud microphysics parameterization for the ICON model. By training the ML parameterization on high-resolution simulation data, we aim to improve Earth System Models (ESMs) in comparison to traditional parameterization schemes. We investigate the usage of a multilayer perceptron (MLP) with feature engineering and physics-constraints, and use explainability techniques to understand the relationship between input features and model output. Our novel approach yields promising results, with the physics-informed ML-based cloud microphysics parameterization achieving an R2 score up to 0.777 for an individual feature. Additionally, we demonstrate a notable improvement in the overall performance in comparison to a baseline MLP, increasing its average R2 score from 0.290 to 0.613 across all variables. This approach to improve the representation of cloud microphysics in ESMs promises to enhance climate projections, contributing to a better understanding of climate change.
