@@ -2,6 +2,7 @@
 title: "Study of the Jet Assignment BDT Output Shape in the tH Analysis"
 collection: publications
 category: manuscripts
+permalink: /publication/2019-06-01-bachelor-thesis
 excerpt: 'Bachelor thesis on the shape analysis of the Jet Assignment BDT output in the tH production channel at KIT.'
 date: 2019-06-01
 venue: 'Bachelor Thesis, Karlsruhe Institute of Technology'
