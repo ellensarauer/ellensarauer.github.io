@@ -2,7 +2,7 @@
 title: "Physics-informed Machine Learning-Based Cloud Microphysics Parameterization for Earth System Models"
 collection: publications
 category: manuscripts
-permalink: /publication/2024-09-01-cloud-ml-edatasci-submission
+permalink: /publication/sarauer-2024-eds-ml-microphysics
 excerpt: 'Submitted manuscript on machine learning-based cloud microphysics parameterization for Earth system models.'
 date: 2024-09-01
 venue: 'Submitted to Environmental Data Science'
